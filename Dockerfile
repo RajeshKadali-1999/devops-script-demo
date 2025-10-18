@@ -1,5 +1,5 @@
 # Use official OpenJDK 17 image
-FROM eclipse-temurin:17-jdk
+FROM openjdk:17-jdk-slim
 
 
 # Set working directory
