@@ -1,5 +1,5 @@
 # Use official OpenJDK 17 image
-FROM adoptopenjdk:17-jdk-hotspot
+FROM eclipse-temurin:17-jdk
 
 
 # Set working directory
